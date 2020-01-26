@@ -1,0 +1,1 @@
+The Update-AllModules script will update all powershell modules currently installed on your machine with the latest version available.  It will then remove all previous versions from your workstation.
